@@ -1,5 +1,7 @@
 # SnakeGame
 
+A Simple Snake Game
+
 ![image](https://user-images.githubusercontent.com/71688954/163589927-f74d7715-068e-412c-b9fc-9816d041c7e3.png)
 
 
